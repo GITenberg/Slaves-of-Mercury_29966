@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '33823'
     url: http://www.gutenberg.org/2009/agents/33823
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29966#Slaves-of-Mercury
 gutenberg_bookshelf:
 - Science Fiction
 - Astounding Stories
